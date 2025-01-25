@@ -1,3 +1,5 @@
+25/01/25 - added matlab gui for analysis of the simple model from the same paper (SNF, NNF and PNF)
+
 
 MATLAB App <br> <br>
 Analysing how the amplitude of certain proteins changes with varying levels of initial concentrations <br>
